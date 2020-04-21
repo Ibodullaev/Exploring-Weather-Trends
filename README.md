@@ -1,9 +1,9 @@
-# Exploring-Weather-Trends
+# Exploring-Weather-Trends with Udacity Nanodegree
 Exploring Weather Trends in Tashkent, Uzbekistan.
 My Google Sheet:
 https://docs.google.com/spreadsheets/d/1_Tns9f63OiusJEWVSj9D4Gsi2OP8Po5OSVspmDvaeGM/edit?usp=sharing
 
-Exploring Weather Trends - Project Instructions
+# Exploring Weather Trends - Project Instructions
 Summary
 In this project, you will analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 
@@ -20,7 +20,7 @@ Is your city hotter or cooler on average compared to the global average? Has the
 “How do the changes in your city’s temperatures over time compare to the changes in the global average?”
 What does the overall trend look like? Is the world getting hotter or cooler? Has the trend been consistent over the last few hundred years?
 
-Submission
+# Submission
 Your submission should be a PDF that includes:
 
 An outline of steps taken to prepare the data to be visualized in the chart, such as:
