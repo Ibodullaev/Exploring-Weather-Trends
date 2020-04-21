@@ -1,5 +1,5 @@
-# Exploring-Weather-Trends with Udacity Nanodegree
-Exploring Weather Trends in Tashkent, Uzbekistan.
+# Udacity Nanodegree
+# Exploring Weather Trends in Tashkent, Uzbekistan.
 My Google Sheet:
 https://docs.google.com/spreadsheets/d/1_Tns9f63OiusJEWVSj9D4Gsi2OP8Po5OSVspmDvaeGM/edit?usp=sharing
 
